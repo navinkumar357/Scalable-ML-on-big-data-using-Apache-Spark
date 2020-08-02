@@ -1,4 +1,5 @@
-pip installed pyspark
+pip install pyspark
 
 Follow this link to read more about pyspark documentation:
 https://spark.apache.org/docs/latest/api/python/pyspark.html#pyspark.RDD 
+
